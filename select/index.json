@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "1:18",
+  "base_artist": "Lemaitre",
+  "createdAt": "2026-02-23T05:22:29.469844Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "1:18",
+      "artist": "Lemaitre",
+      "has_synced": true,
+      "path": "select/01_1_18_Lemaitre.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Morning Sunrise - Live In White Lake, N.Y. 1/18/69",
+      "artist": "The Paul Butterfield Blues Band",
+      "has_synced": false,
+      "path": "select/02_Morning_Sunrise_-_Live_In_White_Lake,_N.Y._1_18_69_The_Paul_Butterfield_Blues_Band.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Excuse (1​:​18​-​3​:​20)",
+      "artist": "Psallos",
+      "has_synced": true,
+      "path": "select/03_No_Excuse_(1​_​18​-​3​_​20)_Psallos.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Of Life and Death (1:18-26)",
+      "artist": "Psallos feat. Andrew Peterson",
+      "has_synced": true,
+      "path": "select/04_Of_Life_and_Death_(1_18-26)_Psallos_feat._Andrew_Peterson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Of Life and Death (1:18-26) (feat. Andrew Peterson)",
+      "artist": "Psallos, Andrew Peterson",
+      "has_synced": true,
+      "path": "select/05_Of_Life_and_Death_(1_18-26)_(feat._Andrew_Peterson)_Psallos,_Andrew_Peterson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Apocalipse 1: 18-19 (Intro)",
+      "artist": "Ryu, The Runner",
+      "has_synced": true,
+      "path": "select/06_Apocalipse_1__18-19_(Intro)_Ryu,_The_Runner.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Apocalipse 1: 18-19 (Intro)",
+      "artist": "Ryu, the Runner",
+      "has_synced": false,
+      "path": "select/07_Apocalipse_1__18-19_(Intro)_Ryu,_the_Runner.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rend Your Hearts [Isaiah 1:18]",
+      "artist": "Lamb",
+      "has_synced": true,
+      "path": "select/08_Rend_Your_Hearts_[Isaiah_1_18]_Lamb.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "God With Us (Matthew 1:18-24)",
+      "artist": "Seeds Family Worship",
+      "has_synced": true,
+      "path": "select/09_God_With_Us_(Matthew_1_18-24)_Seeds_Family_Worship.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "1:18",
+      "artist": "Opus Kink",
+      "has_synced": true,
+      "path": "select/10_1_18_Opus_Kink.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "1-18 Home Alone",
+      "artist": "R. Kelly",
+      "has_synced": true,
+      "path": "select/11_1-18_Home_Alone_R._Kelly.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "1 : 18",
+      "artist": "Opus Kink",
+      "has_synced": true,
+      "path": "select/12_1___18_Opus_Kink.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Skip to (1: 18) For a Cool Feature",
+      "artist": "okay(K)",
+      "has_synced": true,
+      "path": "select/13_Skip_to_(1__18)_For_a_Cool_Feature_okay(K).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "1:18",
+      "artist": "Lemaitre",
+      "has_synced": true,
+      "path": "select/14_1_18_Lemaitre.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "[1] - 18 - Like Dreamers Do [Mono] (Paul McCartney) (Decca Audition)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/15_[1]_-_18_-_Like_Dreamers_Do_[Mono]_(Paul_McCartney)_(Decca_Audition)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "[1] - 18 - A Little Rhyme",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/16_[1]_-_18_-_A_Little_Rhyme_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "[1] - 18 - April Come She Will",
+      "artist": "Simon & Garfunkel",
+      "has_synced": true,
+      "path": "select/17_[1]_-_18_-_April_Come_She_Will_Simon_&_Garfunkel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "1:18",
+      "artist": "Lemaitre",
+      "has_synced": false,
+      "path": "select/pl_01_1_18_Lemaitre.txt"
+    }
+  ]
+}
